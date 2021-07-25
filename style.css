@@ -7,7 +7,7 @@
 
 header {
   height: 150px;
-  background: black;
+  background: red;
 }
 
 section {
@@ -22,4 +22,11 @@ aside {
   height: 550px;
   float: right;
   background: blue; 
+}
+
+
+footer {
+  height: 50px;
+  clear: both; 
+  background: orange
 }

@@ -13,6 +13,7 @@ html, body {
   height: 100%;
   margin-right: auto;
   margin-left: auto;
+  margin-bottom: 20%;
 }
 
 header {
@@ -21,14 +22,21 @@ header {
   background-color: #333;
 
 }
+
 header img,
 .logo {
-  width: 5em;
+  width: 8em;
   height: auto;
+  text-align: center;
 }
 
-.nav {
+.nav a{
   text-align: center;
+  font-size: 25px;
+  list-style-type: none;
+  text-decoration-style: none;
+  text-decoration: none;
+  margin-left: 3.5rem;
   
   
 }
